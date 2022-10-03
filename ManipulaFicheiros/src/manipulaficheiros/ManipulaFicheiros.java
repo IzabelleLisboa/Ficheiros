@@ -29,8 +29,7 @@ public class ManipulaFicheiros {
             case 6: Ficheiro.mostraListaFicheiros();break;
             case 0: break;
         }
-        while
-    }
+    }        while(op!=0);
     }
     
 }
